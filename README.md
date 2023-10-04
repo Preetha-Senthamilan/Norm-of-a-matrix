@@ -39,15 +39,17 @@ print(norm)
 ## Output:
 ### 1-Norm of a Matrix
 
-![Screenshot 2023-10-04 134051](https://github.com/Preetha-Senthamilan/Norm-of-a-matrix/assets/119390282/7db2cbb7-20bb-4679-8c22-ab68ca906564)
+![Screenshot 2023-10-04 134617](https://github.com/Preetha-Senthamilan/Norm-of-a-matrix/assets/119390282/0c57bad9-fe41-46a8-9166-b2f4cfbeb745)
+
 
 ### 2-Norm of a Matrix
 
-![image](https://github.com/Preetha-Senthamilan/Norm-of-a-matrix/assets/119390282/1658e04c-6ea7-4296-899e-57812cfe64a8)
+![Screenshot 2023-10-04 134756](https://github.com/Preetha-Senthamilan/Norm-of-a-matrix/assets/119390282/22619f50-79f2-4b04-ba5d-d11f4a487e08)
 
 
 ### Infinity Norm of a Matrix
-![Screenshot 2023-10-04 134347](https://github.com/Preetha-Senthamilan/Norm-of-a-matrix/assets/119390282/6f05d4fb-911d-4871-ab26-db9f7f644bb9)
+
+![Screenshot 2023-10-04 134916](https://github.com/Preetha-Senthamilan/Norm-of-a-matrix/assets/119390282/97b1a365-d939-4c15-aa17-7bb56a129ee7)
 
 
 ## Result
